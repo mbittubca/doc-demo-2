@@ -1,0 +1,50 @@
+[
+  {
+    "id": "general-consult",
+    "title": "General Consultation",
+    "description": "Comprehensive health assessment and diagnosis for acute and chronic conditions. Treatment planning and preventive health guidance.",
+    "fee": 500,
+    "icon": "🩺",
+    "conditions": ["Common illnesses", "Chronic conditions", "Health checkups"]
+  },
+  {
+    "id": "chronic-manage",
+    "title": "Chronic Disease Management",
+    "description": "Expert management of diabetes, hypertension, thyroid disorders. Regular monitoring and medication management with lifestyle counseling.",
+    "fee": 600,
+    "icon": "💊",
+    "conditions": ["Diabetes", "Hypertension", "Thyroid disorders"]
+  },
+  {
+    "id": "preventive",
+    "title": "Preventive Health Checkup",
+    "description": "Annual physical examinations, age-appropriate screening tests, and comprehensive health risk assessments.",
+    "fee": 2000,
+    "icon": "🛡️",
+    "conditions": ["Annual checkups", "Health screenings", "Risk assessment"]
+  },
+  {
+    "id": "womens-health",
+    "title": "Women's Health",
+    "description": "Comprehensive reproductive health consultations, prenatal and postnatal care, and menopause management.",
+    "fee": 650,
+    "icon": "👩‍⚕️",
+    "conditions": ["Reproductive health", "Prenatal care", "Menopause"]
+  },
+  {
+    "id": "pediatric",
+    "title": "Pediatric Care",
+    "description": "Child health monitoring, vaccination schedules, and growth and development tracking for children of all ages.",
+    "fee": 550,
+    "icon": "👶",
+    "conditions": ["Child health", "Vaccinations", "Development tracking"]
+  },
+  {
+    "id": "minor-procedures",
+    "title": "Minor Procedures",
+    "description": "Wound care and suturing, abscess drainage, ECG and basic diagnostic tests performed in-clinic.",
+    "fee": 800,
+    "icon": "⚕️",
+    "conditions": ["Wound care", "Suturing", "Basic diagnostics"]
+  }
+]
